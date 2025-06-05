@@ -1,29 +1,40 @@
 Maryam Radouani
+📍 Sidi Taibi, Kénitra, Maroc
 📞 +212 677 446 388
 ✉️ meryamm.radouani@gmail.com
 🔗 linkedin.com/in/meryam-radouani-54470527a
 
-INTRO
-Hello, my name is Meryam radouani and I'm a final-year engineering student in Computer Science at ENSA Kénitra. I am passionate about fullstack development and actively seeking a PFA (end-of-study internship) opportunity to apply my technical skills and contribute to real-world projects. I’ve worked on several academic and personal projects involving web, desktop, and data-driven applications. I am always eager to learn and collaborate in dynamic environments.
+🎯 Profil
+Je suis étudiante en dernière année en Génie Informatique à l'ENSA Kénitra, passionnée par le développement fullstack. Je suis actuellement à la recherche d’un stage de PFA (Projet de Fin d’Année) pour mettre en pratique mes compétences techniques et contribuer à des projets concrets. J’ai réalisé plusieurs projets académiques mêlant développement web, applications desktop et traitement de données. Je suis curieuse, rigoureuse et motivée à apprendre au sein d’une équipe dynamique.
 
-EXPERIENCE
-Fullstack Developer – Internship
-Company: [ONEEP]
-• Developed web interfaces using HTML,css,javascript, Bootstrap
-• Implemented backend APIs using PHP and Laravel
-• Designed and managed databases with MySQL and phpMyAdmin
-• Integrated authentication systems and role-based access control
+💼 Expérience
+🧑‍💻 Full-stack Developer – Stage (2 mois)
+📍 ONEEP — Juillet - Août 2024
 
-Academic Projects
-ENSA Kénitra 
-• Todolist Application: Task manager built with ReactJS, Bootstrap, Material UI
-• Restaurant Management App: Desktop app using Java, JavaFX, SceneBuilder, MySQL
-• Quran Verse Analyzer: Python app for syntax checking and translation
-• Job Offers Classifier: Java scraping and machine learning-based classification of job ads
-• Event Management Website: Fullstack web project using PHP, HTML/CSS, Bootstrap
-• Mini Marketplace (Avito clone): Fullstack app built with Ruby on Rails
+Développement d’une application web de gestion du parc informatique avec Laravel
 
-EDUCATION
-ENSA Kénitra – National School of Applied Sciences
-in Computer Science Engineering – Final Year
-2021 – Present
+Mise en place de la gestion de stock et du suivi des mouvements des équipements dans les ateliers
+
+Création des interfaces responsives avec HTML, CSS, Bootstrap, JavaScript et jQuery
+
+Développement backend avec PHP et Laravel, base de données MySQL
+
+📚 Projets Académiques
+📍 ENSA Kénitra
+
+✅ Todolist Application – Gestion de tâches avec ReactJS, Bootstrap, Material UI
+
+✅ Restaurant Management App – Application desktop Java avec JavaFX, SceneBuilder, MySQL
+
+✅ Quran Verse Analyzer – Outil Python d’analyse, détection d’erreurs et traduction
+
+✅ Job Offers Classifier – Scraping + classification automatique des offres d’emploi avec Java
+
+✅ Event Management Website – Site PHP fullstack pour la gestion d’événements scolaires
+
+✅ Mini Marketplace (Clone Avito) – Plateforme d’annonces développée avec Ruby on Rails
+
+🎓 Éducation
+🎓 École Nationale des Sciences Appliquées (ENSA) – Kénitra
+🎓 Génie Informatique – 5ᵉ année
+📅 2021 – Présent
