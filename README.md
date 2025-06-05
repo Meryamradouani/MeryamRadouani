@@ -1,13 +1,13 @@
-Maryam Radouani
-📍 Sidi Taibi, Kénitra, Maroc
-📞 +212 677 446 388
-✉️ meryamm.radouani@gmail.com
-🔗 linkedin.com/in/meryam-radouani-54470527a
+<h1>Maryam Radouani</h1><br>
+📍 Sidi Taibi, Kénitra, Maroc <br>
+📞 +212 677 446 388<br>
+✉️ meryamm.radouani@gmail.com<br>
+🔗 linkedin.com/in/meryam-radouani-54470527a<br>
 
-🎯 Profil
-Je suis étudiante en dernière année en Génie Informatique à l'ENSA Kénitra, passionnée par le développement fullstack. Je suis actuellement à la recherche d’un stage de PFA (Projet de Fin d’Année) pour mettre en pratique mes compétences techniques et contribuer à des projets concrets. J’ai réalisé plusieurs projets académiques mêlant développement web, applications desktop et traitement de données. Je suis curieuse, rigoureuse et motivée à apprendre au sein d’une équipe dynamique.
+<h1>🎯 Profil</h1>
+Étudiante en dernière année en Génie Informatique à l’ENSA Kénitra, je suis passionnée par le développement fullstack et les technologies numériques. Curieuse et motivée, je cherche constamment à approfondir mes compétences techniques et à relever de nouveaux défis à travers des projets concrets. Grâce à mes expériences académiques variées (applications web, desktop, analyse de données), j’ai pu développer une solide capacité d’adaptation, un sens de l’analyse et un goût pour le travail collaboratif dans des environnements dynamiques et innovants.
 
-💼 Expérience
+<h1>💼 Expérience</h1>
 🧑‍💻 Full-stack Developer – Stage (2 mois)
 📍 ONEEP — Juillet - Août 2024
 
@@ -19,7 +19,7 @@ Création des interfaces responsives avec HTML, CSS, Bootstrap, JavaScript et jQ
 
 Développement backend avec PHP et Laravel, base de données MySQL
 
-📚 Projets Académiques
+<h1>📚 Projets Académiques</h1>
 📍 ENSA Kénitra
 
 ✅ Todolist Application – Gestion de tâches avec ReactJS, Bootstrap, Material UI
@@ -34,7 +34,7 @@ Développement backend avec PHP et Laravel, base de données MySQL
 
 ✅ Mini Marketplace (Clone Avito) – Plateforme d’annonces développée avec Ruby on Rails
 
-🎓 Éducation
+<h1>🎓 Éducation</h1>
 🎓 École Nationale des Sciences Appliquées (ENSA) – Kénitra
 🎓 Génie Informatique – 5ᵉ année
 📅 2021 – Présent
